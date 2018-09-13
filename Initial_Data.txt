@@ -1,0 +1,12 @@
+100    t     	initialTemperature - temperatura początkowa [°C]
+500    tau   	simulationTime - czas symulacji [s]
+50     dTau  	simulationStepTime - krok czasowy symulacji [s]
+1200   t_env    ambientTemperature - temperatura otoczenia [°C]
+300    alfa     alfa - współczynnik wymiany ciepła [W/(m^2)*K]
+0,100    H 		H - wysokość przekroju [m]
+0,100    B 		B - szerokość przekroju [m]
+4	   N_H  	N_H - liczba węzłów w wysokości siatki
+4      N_B 		N_B - liczba węzłów w szerokości siatki
+700    C 		specificHeat - ciepło właściwe [J/kg*°C]
+25     k        conductivity - współczynnik przewodzenia ciepła [W/(m*°C)]
+7800   ro 		density - gęstość [kg/m^3]
